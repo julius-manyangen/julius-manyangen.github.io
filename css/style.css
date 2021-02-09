@@ -5,6 +5,8 @@ html {
 body {
   margin-bottom: 120px;
   margin-top: 30px;
+  background-color: #34403c;
+  color: #ffffff;
 }
 
 .jumbotron {
@@ -55,7 +57,7 @@ section {
 }
 
 .portfolio {
-  background-color: #eee;
+  background-color: #6b7d77;
 }
 
 .portfolio .thumbnail {
